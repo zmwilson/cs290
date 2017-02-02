@@ -45,6 +45,7 @@ header {
 }
 
 footer {
+        padding: 2em;
         margin-top: 20px;
         background-color: tan;
         bottom: 0;

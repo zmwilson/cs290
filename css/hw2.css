@@ -1,0 +1,78 @@
+div.container {
+    width: 100%;
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/24/87/f4/2487f4b2432e85b0dbfd6b9797185001.jpg");
+}
+
+div.border {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  border-left: 1px solid grey;
+  border-right: 1px solid grey;
+  border-bottom: 1px solid grey;
+  box-shadow: 10px 10px 5px #ccc;
+}
+
+body {
+  align-content: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/104/006/non_2x/vector-crosshatch-pattern-background.jpg");
+  background-size: 300px 210px;
+}
+
+img {
+  width: 50%;
+  margin: 0px 20px 0px 20px;
+  float: left;
+  border-radius: 25px;
+  box-shadow: 10px 10px 5px #ccc;
+}
+
+p {
+  text-align: justify;
+  text-indent:  2em;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+
+
+header {
+    height: 200px;
+    width: 100%;
+    top: 0;
+    text-align: center;
+    margin-bottom: -75px;
+}
+
+footer {
+        margin-top: 20px;
+        background-color: tan;
+        bottom: 0;
+        width: 100%;
+        text-align: center;
+}
+
+nav a {
+    padding: 5px;
+    color: blue;
+    top: 0;
+    text-decoration: underline;
+}
+
+nav a:hover {
+  color: red;
+}
+
+ul {
+  padding-left: 75px;
+  list-style-image: url("https://www.realestatebook.com/Content/Images/Loader/loader-circle-black.gif");
+}
+
+h1 {
+  padding-left: 20px;
+  margin-bottom: 80px;
+}
+
+h3 {
+  padding-left: 20px;
+}
